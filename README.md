@@ -28,6 +28,15 @@ outputs/
   figures/                # Generated figures, ignored by Git by default
   models/                 # Trained models, ignored by Git by default
 ```
+## Environment
+
+The experiments were developed and tested using:
+
+- Python 3.10
+- TensorFlow 2.9.1
+- Keras 2.9.0
+
+The complete list of required packages is provided in `requirements.txt`.
 
 ## Installation
 

@@ -9,7 +9,7 @@ The repository aims to facilitate reproducibility and support further methodolog
 
 ## Cite this code
 
-Please use the following DOI for citing this code:  https://doi.org/10.5281/zenodo.20730577
+Please use the following DOI for citing this code:  https://doi.org/10.5281/zenodo.20730576
 
 ## Repository structure
 

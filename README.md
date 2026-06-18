@@ -87,13 +87,13 @@ File names are expected to contain the patch identifier and the class label, fol
 The repository includes the 12 pre-trained CNN models used for the ensemble-learning experiments reported in the manuscript. These models were trained using the reference configuration consisting of CLAHE enhancement, HOG-based orientation normalisation, data augmentation, and standard categorical cross-entropy loss (i.e. without class weighting).
 
 The models are provided in HDF5 (.h5) format and can be used directly for inference or for reproducing the ensemble-based results presented in the study.
-
+```
 trained_models/
 ├── model1.h5
 ├── model2.h5
 ...
 ├── model12.h5
-
+```
 
 ## Optional data augmentation
 

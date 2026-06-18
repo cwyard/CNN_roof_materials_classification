@@ -24,12 +24,12 @@ src/
   training.py             # Single-model and ensemble training
   evaluation.py           # Metrics and figures
   utils.py                # Reproducibility and output helpers
-trained_models/           # Trained models in *.h5 format
+Pre-trained_models/           # Pre-trained models in *.h5 format
   model1.h5
   model2.h5
   ...
   model12.h5
-  README.md
+  README.md               # Model configuration
 ```
 ## Environment
 
@@ -88,7 +88,7 @@ The repository includes the 12 pre-trained CNN models used for the ensemble-lear
 
 The models are provided in HDF5 (.h5) format and can be used directly for inference or for reproducing the ensemble-based results presented in the study.
 
-trained_models/
+pre-trained_models/
 ├── model1.h5
 ├── model2.h5
 ...

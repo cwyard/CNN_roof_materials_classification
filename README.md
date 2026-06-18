@@ -24,7 +24,7 @@ src/
   training.py             # Single-model and ensemble training
   evaluation.py           # Metrics and figures
   utils.py                # Reproducibility and output helpers
-Pre-trained_models/           # Pre-trained models in *.h5 format
+pre-trained_models/       # Pre-trained models in *.h5 format
   model1.h5
   model2.h5
   ...

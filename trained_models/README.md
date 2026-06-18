@@ -1,5 +1,5 @@
 # Model configuration and associated parameters to modify in /src/config.py
-- CLAHE: enabled --> USE_CLAHE = True
+- CLAHE: enabled -> USE_CLAHE = True
 - HOG rotation: enabled --> USE_HOG = True
 - Data augmentation: enabled --> USE_DATA_AUGMENTATION = True
 - Weighted loss: disabled --> USE_WEIGHTED_CATEGORICAL_CROSSENTROPY = False
